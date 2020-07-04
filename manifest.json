@@ -1,0 +1,36 @@
+ 
+  {
+  "name": "Airpurifiercoway",
+  "short_name": "airpurifiercoway",
+  "start_url": "https://airandwaterpurifier.coway-jakarta.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-xIQ493UGPlU/XwDqXoK9rpI/AAAAAAAAEzM/gz0qjmgg5SIguWRR4dj7hzotf1zDyWScACK4BGAsYHg/s48/coway-android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-66pHfbM_jbc/XwDqX__6DwI/AAAAAAAAEzQ/oygkAh0U5C4cI15ylacKcFH6clZ1n0CUACK4BGAsYHg/s72/coway-android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DRerj5Omk1U/XwDqYOlrXQI/AAAAAAAAEzU/Q9VyGAnr_yM5mV4sjyahY1H7N5XpbnfowCK4BGAsYHg/coway-android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I2Q94SaP7-4/XwDqYsdotBI/AAAAAAAAEzY/mODh9-Kb1isWr-8fXqRP_FRm8mFrSe51ACK4BGAsYHg/coway-android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-R-2t8LV3vu4/XwDqZOr8RxI/AAAAAAAAEzg/Irn5-pPgX9A5MbyJ_jXIbjz4ompGwHcpACK4BGAsYHg/s150/coway-ms-icon-150x150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0xOnpAgHqhY/XwDqZrYaxuI/AAAAAAAAEzk/WH4Squ1rPN4vcGJ--6Ib1xWS1Uz2Tp7AQCK4BGAsYHg/coway-ms-icon-310x310.png",
+    "sizes": "310x310",
+    "type": "image/png"
+  }
+  }]
+}
